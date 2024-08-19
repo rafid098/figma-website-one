@@ -1,0 +1,540 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header part start */
+#header{
+    padding: 10px 0;
+    background: #fff;
+    font-family: "Moderustic", sans-serif;
+}
+.headerpartmenubar ul{
+    list-style-type: none;
+}
+.headerpartmenubar ul li{
+    padding: 0 20px;
+    display: inline-block;
+}
+.headerpartmenubar ul li a{
+    text-decoration: none;
+    color: #2D4A68;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+}
+.headerpartmenubar ul li a:hover{
+    color: #2F93FD;
+}
+.headerbtn{
+    text-align: right;
+}
+.headerbtn a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 5px 40px;
+    border-radius: 50px;
+    background: #2F93FD;
+}
+/* header part start */
+/*banner part start */
+.bannertext{
+    margin-left: 200px;
+    margin-top: 200px;
+    position: relative;
+}
+.bannervector{
+    position: absolute;
+    top: -70px;
+    left: 420px;
+    width: 60px;
+    height: 60px;
+}
+.bannervectorone{
+    position: absolute;
+    top: -180px;
+    left: 390px;
+   
+}
+.bannervectorone img{
+    width: 20px;
+    height: 20px;
+}
+.bannervectortwo{
+    position: absolute;
+    top: -120px;
+    left: 280px;
+   
+}
+.bannervectortwo img{
+    width: 35px;
+    height: 35px;
+}
+.bannertext h1{
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 76px;
+    color: #001838;
+    font-family: "Moderustic", sans-serif;
+}
+.bannertext p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    padding-right: 122px;
+    padding: 15px 0;
+}
+.bannertext a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 5px 40px;
+    border-radius: 50px;
+    background: #2F93FD;
+}
+.bannertext h6{
+    position: absolute;
+    top: 340px;
+    left: 190px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.bennerimg{
+  width: 100%;
+  height: 100%;
+}
+/*banner part start */
+/*about company part start */
+#aboutcompanypart{
+    padding-top: 80px;
+}
+.aboutcompanyimgfiv{
+    position: relative;
+    width: 582px;
+    height: 630px;
+}
+.aboutcompaniimg{
+    position: absolute;
+    top: -30px;
+    left: -25px;
+}
+.aboutcompanyimgone{
+    position: absolute;
+    top: -56px;
+    right: -173px;
+}
+.aboutcompanyimgfour{
+    position: absolute;
+    width: 344px;
+    height: 348px;
+    right: 0;
+    bottom: 0px;
+}
+.aboutcompanyimgthree{
+    position: absolute;
+    width: 213px;
+    height: 116px;
+    right: -50px;
+    bottom: 0px;
+}
+.aboutcompanyimgtwo{
+    position: absolute;
+    width: 182px;
+    height: 179px;
+    right: 223px;
+    bottom: -100px;
+}
+.aboutcompanytitle{
+    margin-left: 60px;
+}
+
+.aboutcompanytitle h5{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43px;
+    color: #37B865;
+    font-family: "Moderustic", sans-serif;
+}
+.aboutcompanytitle h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    color: #001838;
+    font-family: "Moderustic", sans-serif;
+    padding-right: 122px;
+    padding: 15px 0;
+}
+.aboutcompanytitle p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    padding-right: 162px;
+}
+.aboutcompanytitlebtn a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 5px 40px;
+    border-radius: 50px;
+    background: #2F93FD;
+}
+
+/*about company part start */
+/*about company rateing part start */
+#companyrating{
+    margin-top: 110px;
+    padding: 20px 0;
+    background: #003173;
+}
+.companyrate{
+    display: flex;
+    padding-left: 200px;
+}
+.rating{
+    text-align: center;
+}
+.rating h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    color: #fff;
+    font-family: "Moderustic", sans-serif;
+}
+.rating p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #fff;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.leftline{
+    width: 0px;
+    border: 1px solid #37B865;
+    margin: 0 50px;
+}
+/*about company rateing part start */
+/*work field part part start */
+.wokfieldtitle{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.leftlin{
+        width: 50px;
+    border: 1px solid #37B865;
+    margin: 0 auto;
+}
+.wokfieldtitle h5{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #37B865;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.wokfieldtitle h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    color: #001838;
+    font-family: "Moderustic", sans-serif;
+    padding: 0 319px;
+}
+.wokfieldtitle p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    padding: 0 390px;
+}
+.worktfielddetails{
+    text-align: center;
+    padding: 5px;
+}
+.worktfielddetails h2{
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 28px;
+    color: #001838;
+    font-family: "Moderustic", sans-serif;
+}
+.worktfielddetails p{
+    padding: 0 40px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+#workfieldpart{
+    position: relative;
+}
+.workfield{
+    border-top: 1px solid #FFF2F2;
+    border-bottom: 1px solid #FFF2F2;
+}
+.arrow{
+    position: absolute;
+    top: 336px;
+    left: 100px;
+}
+.borders{
+    border-right: 1px solid #FFF2F2;
+}
+.arrows{
+    position: absolute;
+    top: 336px;
+    right: 100px;
+}
+/*work field part part start */
+/*busines shine part part start */
+#businesshinepart{
+    padding: 100px 0;
+}
+.businesshine h5{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43px;
+    color: #37B865;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.businesshine h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    color: #001838;
+    font-family: "Moderustic", sans-serif;
+    padding-right: 122px;
+    padding: 15px 0;
+}
+.businesshine p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    padding-right: 158px;
+}
+.businesshinebtn a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 5px 40px;
+    border-radius: 50px;
+    background: #2F93FD;
+}
+.upline{
+    width: 50px;
+    border: 1px solid #37B865;
+}
+.businesshinem{
+    margin-top: 60px;
+}
+.businesshinebg{
+    width: 100%;
+    height: 100%;
+}
+.businesshineimg{
+    border: 1px solid #FFF2F2 ;
+    padding: 10px;
+}
+.businesshineimg h2{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+/*busines shine part part start */
+/*project part part start */
+#projectpart{
+    padding: 50px 0;
+    background-color: #003173F2;
+    padding-bottom: 200px;
+    position: relative;
+}
+.projecttext h4{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43px;
+    color: #37B865;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.projecttext h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    color: #fff;
+    font-family: "Moderustic", sans-serif;
+    padding-right: 130px;
+}
+.projecttxt p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #fff;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    padding-top: 60px;
+    padding-right: 255px;
+}
+.projectimg{
+    position: absolute;
+    top: 292px;
+    left: 113px
+}
+.projectpartimg h3 {
+    padding: 10px 60px;
+    background: #FFFFFFB2;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    position: absolute;
+    top: 310px;
+    left: 16px;
+}
+.companyimg{
+    position: absolute;
+    color: #37B865;
+    right: -25px;
+    bottom: -25px;
+}
+/*project part part start */
+/*happy client  part start */
+#happyclientpart{
+    margin-top: 275px;
+    position: relative;
+    z-index: 1;
+    
+}
+.happyclienttitle h4{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43px;
+    color: #37B865;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.happyclienttitle h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    font-family: "Moderustic", sans-serif;
+    padding-right: 650px;
+}
+.happyclinetimg{
+    text-align: center;
+}
+.happyclinetimg h5{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 43px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.happyclinettxt{
+    text-align: center;
+    padding: 10px;
+    background: #F5F9FF;
+    border-radius: 10px;
+}
+.marginleft{
+    margin-left: 20px;
+}
+.happyclinettxt p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.happyclinettxt h5{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #486489;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.happyclinettxt i{
+    color: orange;
+}
+.positionimg{
+    position: absolute;
+    bottom: 10px;
+    left: 70px;
+}
+/*happy client  part start */
+/*clean area  part start */
+#cleanareapart{
+    text-align: center;
+    margin-top: 50px;
+}
+.uplines{
+    margin: 0 auto;
+    width: 50px;
+    border: 1px solid #37B865;
+}
+.text h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 57px;
+    font-family: "Moderustic", sans-serif;
+    padding: 0 263px;
+}
+.margintop{
+    margin-top: 63px;
+    margin-left: 65px;
+}
+/*clean area  part start */
+/*footer part start */
+#footerpart{
+    padding: 40px;
+    background: #0B3A77;
+}
+.footerone img{
+    color: #fff;
+}
+.footerone p{
+    color: #fff;
+    padding-top: 40px;
+}
+.footertwo p{
+    color: #fff;
+    padding-left: 30px;
+}
+.footertwo ul{
+    list-style-type: none;
+}
+.footertwo ul li{
+    padding: 10px 0;
+}
+.footertwo ul li a{
+    text-decoration: none;
+    color: #fff;
+
+}
+.one{
+    margin-left: 50px;
+}
+.foot{
+    display: flex;
+    color: #fff;
+}
+p.align{
+    padding-left: 500px;
+}
+p.aligns{
+    padding-left: 170px;
+}
+/*footer part start */
